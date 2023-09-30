@@ -1,0 +1,28 @@
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.exe
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.deps.json
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.runtimeconfig.json
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.dll
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.pdb
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.AssemblyInfoInputs.cache
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.AssemblyInfo.cs
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.dll
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\refint\EventPatternCSharp.dll
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.pdb
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.genruntimeconfig.cache
+C:\Users\Kenneth Lola\Documents\.NET\Practice C#\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\ref\EventPatternCSharp.dll
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.exe
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.deps.json
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.runtimeconfig.json
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.dll
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\bin\Debug\net7.0\EventPatternCSharp.pdb
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.AssemblyInfo.cs
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.dll
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\refint\EventPatternCSharp.dll
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.pdb
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\EventPatternCSharp.genruntimeconfig.cache
+C:\Users\johan\Documents\Code\Practices\EventPatternCSharp\EventPatternCSharp\obj\Debug\net7.0\ref\EventPatternCSharp.dll
